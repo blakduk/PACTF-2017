@@ -1,11 +1,11 @@
 # Hash Killer
 
 ### Challenge
-> Qu’est que c’est?
-> We were clearing out the old server and came across a really weird *([file](hashes.txt))*
+> Quâ€™est que câ€™est?
+> We were clearing out the old server and came across a really weird *[file](hashes.txt)*...
 
 ### Hint
-> Did someone say MD5? And that last line seems different from the rest…
+> Did someone say MD5? And that last line seems different from the restâ€¦
 
 ### Solution
 Looking at the txt file, there seems to be several hashes along with a base64 encoded string.
